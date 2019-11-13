@@ -1,6 +1,6 @@
 from utils import *
 
-papers = load_papers("iclr2020.h5py")
+papers = load_papers("data/iclr2020.h5py")
 
 ###############################
 # Find top T shortest reviews #
